@@ -12,12 +12,13 @@ Plugins Used
 Getting Started
 To run this project locally, follow these steps:
 
-1. Clone the repository
+Clone the repository:
+
 git clone https://github.com/yidaouti/MyPortfolio.git
 cd MyPortfolio
+Install dependencies:
 
-2. Install dependencies
 npm install
+Start the development server:
 
-4. Start the development server
 npm run dev
