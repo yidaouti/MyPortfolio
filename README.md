@@ -1,15 +1,17 @@
-React + Vite
+#React + Vite 
 This project is just getting started, and so far, only the side navigation (sidenav) has been implemented.
 
-Project Overview
+#Project Overview
 This is a minimal React application using Vite for fast development with Hot Module Replacement (HMR). The project is in its early stages, and further development will follow.
 
-Current Features
+#Current Features
 Side Navigation Bar (Sidenav): A sticky side navigation bar has been added, but more features and components are still to be developed.
-Plugins Used
+
+#Plugins Used
 @vitejs/plugin-react: Uses Babel for Fast Refresh.
 @vitejs/plugin-react-swc: Uses SWC for Fast Refresh.
-Getting Started
+
+#Getting Started
 To run this project locally, follow these steps:
 
 Clone the repository:
