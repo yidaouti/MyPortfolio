@@ -1,4 +1,4 @@
-React + Vite
+#React + Vite
 This project is just getting started, and so far, only the side navigation (sidenav) has been implemented.
 
 Project Overview
@@ -13,15 +13,11 @@ Getting Started
 To run this project locally, follow these steps:
 
 1. Clone the repository
-bash
-Copy code
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/yidaouti/MyPortfolio.git
+cd MyPortfolio
+
 2. Install dependencies
-bash
-Copy code
 npm install
-3. Start the development server
-bash
-Copy code
+
+4. Start the development server
 npm run dev
