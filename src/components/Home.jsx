@@ -1,12 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import { motion } from 'framer-motion';
+import React from 'react';
 
 const Home = () => {
-  
-
   return (
-    <section id="home" className="flex flex-col items-center justify-center h-screen bg-slate-900 text-white ">
-     
+    <section id="home" className="flex flex-col items-center justify-center h-screen  bg-slate-500 text-black">
+      this is home
     </section>
   );
 };

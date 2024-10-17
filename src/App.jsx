@@ -1,19 +1,15 @@
 import Home from "./components/Home"
-import Sidenav from "./components/Sidenav"
+// import Sidenav from "./components/Sidenav"
+import SideNav from "./components/Sidenav"
 
 
 function App() {
 
   return (
-    <div class=" flex bg-slate-700">
+    <div class="bg-slate-700">
 
-      <Sidenav />
-
-      <main className="flex-1 p-2"> {/* This will fill the remaining width */}
-        <Home />
-      </main>
-
-
+      <SideNav content={<Home />} />
+      
     </div>
   )
 }
