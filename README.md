@@ -1,8 +1,26 @@
-# React + Vite
+#React + Vite .
+This project is just getting started, and so far, only the side navigation (sidenav) has been implemented.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Project Overview .
+This is a minimal React application using Vite for fast development with Hot Module Replacement (HMR). The project is in its early stages, and further development will follow.
 
-Currently, two official plugins are available:
+#Current Features .
+Side Navigation Bar (Sidenav): A sticky side navigation bar has been added, but more features and components are still to be developed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Plugins Used .
+@vitejs/plugin-react: Uses Babel for Fast Refresh.
+@vitejs/plugin-react-swc: Uses SWC for Fast Refresh.
+
+#Getting Started .
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/yidaouti/MyPortfolio.git
+cd MyPortfolio
+Install dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
